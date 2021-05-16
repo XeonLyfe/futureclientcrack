@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "futurecrackloader",
+    "name": "FutureCrackLoader",
+    "description": "Loads a patched dump of Future Client.",
+    "version": "b0.3",
+    "mcversion": "1.12.2",
+    "url": "https://discord.gg/uVAqyg9A",
+    "updateUrl": "https://github.com/chrispycreme420/futureclientcrack",
+    "authorList": ["Crystallinqq", "chrispycreme420"],
+    "credits": "Listed at https://github.com/chrispycreme420/futureclientcrack",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
